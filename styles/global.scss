@@ -1,0 +1,7 @@
+@import "./utils/variables.scss";
+
+body {
+  font-family: sans-serif;
+  background-color: $app-background-color;
+  color: $primary-font-color;
+}
